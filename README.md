@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi 👋, I'm <a href="https://frostburns.github.io/frostburns/">frostburns</a></h1>
+<h1>Hi 👋, I'm <a href="https://frostbun.github.io/frostbun/">frostbun</a></h1>
 
 ## 👉 About me
 💻 I'm a university student （。＾▽＾）\
@@ -61,8 +61,8 @@
 <br/>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=frostburns&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostburns&layout=compact&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=frostbun&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostbun&layout=compact&theme=tokyonight"/>
 </p>
 <br/>
 
