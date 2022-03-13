@@ -8,7 +8,7 @@
 🥅 Goal: To become a billionaire (●'◡'●)\
 👨‍❤️‍💋‍👨 Fun fact: I'm gei ... jk ... or do I (●__●)\
 ❤ In love with: [You](https://www.facebook.com/profile) (´▽`ʃ♡ƪ)\
-🤖 Currently working on a [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=917296694247436298&permissions=1644972474359&scope=bot) (He's very fragile so don't be harsh to him) ＞﹏＜
+🤖 Currently working on a [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=917296694247436298&permissions=8&scope=bot%20applications.commands) (He's very fragile so don't be harsh to him) ＞﹏＜
 
 <br/>
 
@@ -43,8 +43,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height=40/>
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height=40/> -->
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height=40/> -->
 </p>
 <br/>
 
