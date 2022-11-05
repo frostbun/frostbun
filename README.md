@@ -7,8 +7,8 @@
 😥 And looking for help with everything too .·´¯\`(>▂<)´¯\`·.\
 🥅 Goal: To become a billionaire (●'◡'●)\
 <!-- 👨‍❤️‍💋‍👨 Fun fact: I'm gei ... jk ... or do I (●__●)\
-❤ In love with: [You](https://www.facebook.com/profile) (´▽`ʃ♡ƪ)\ -->
-🤖 Currently working on a [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=917296694247436298&permissions=8&scope=bot%20applications.commands) ＞﹏＜
+❤ In love with: [You](https://www.facebook.com/profile) (´▽`ʃ♡ƪ)\
+🤖 Currently working on a [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=917296694247436298&permissions=8&scope=bot%20applications.commands) ＞﹏＜ -->
 
 <br/>
 
